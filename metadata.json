@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Infinity Dispatch LLC",
+  "description": "Professional truck dispatching and comprehensive logistics management platform for owner-operators and trucking fleets across the USA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
